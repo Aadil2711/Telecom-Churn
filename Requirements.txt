@@ -1,0 +1,13 @@
+Python
+Numpy
+Padas
+Matplotlib
+Seaborn
+Machine Learning
+Decision Tree
+Random Forest
+SVM
+Logistic Regression
+ADABoost
+XGBoost
+KNeighbours
